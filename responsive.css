@@ -1,0 +1,161 @@
+      
+      
+      
+      /* Laptop-screen-resolutions */
+
+            /* 4k-screen */
+
+@media only screen and (max-width: 2560px) {
+    html{
+        font-size: 110%;
+    }
+}
+
+@media only screen and (max-width: 2460px) {
+    html{
+        font-size: 100%;
+    }
+}
+@media only screen and (max-width: 2260px) {
+    html{
+        font-size: 90%;
+    }
+}
+@media only screen and (max-width: 1960px) {
+    html{
+        font-size: 80%;
+    }
+}
+@media only screen and (max-width: 1760px) {
+    html{
+        font-size: 70%;
+    }
+}
+@media only screen and (max-width: 1560px) {
+    html{
+        font-size: 66%;
+    }
+}
+
+
+
+
+                /* Laptop-L */
+@media only screen and (max-width: 1440px) {
+    html{
+        font-size: 62.5%;
+    }
+}
+@media only screen and (max-width: 1360px) {
+    html{
+        font-size: 56%;
+    }
+}
+@media only screen and (max-width: 1160px) {
+    html{
+        font-size: 50%;
+    }
+}
+
+
+
+
+                /* Laptop-M */
+@media only screen and (max-width: 1024px) {
+    html{
+        font-size: 44%;
+    }
+ 
+}
+
+@media only screen and (max-width: 968px) {
+    html{
+        font-size: 40%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        /* Tablet-screen-resolutions */
+
+
+@media only screen and (max-width: 768px) {
+    html{
+        font-size: 32%;
+    }
+
+
+
+    
+}
+
+@media only screen and (max-width: 668px) {
+    html{
+        font-size: 28%;
+    }
+        
+
+}
+@media only screen and (max-width: 570px) {
+    html{
+        font-size: 25.5%;
+    }
+}
+@media only screen and (max-width: 480px) {
+    html{
+        font-size: 24%;
+    }        
+}
+
+@media only screen and (max-width: 440px) {
+    html{
+        font-size: 23%;
+    }    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+        /* Mobiles-screen-resolutions */
+                /* Mobile-L */
+@media only screen and (max-width: 425px) {
+    html{
+        font-size: 22%;
+    } 
+}
+
+                /* Mobile-M */
+@media only screen and (max-width: 375px) {
+    html{
+        font-size: 20%;
+    } 
+}
+
+                /* Mobile-S */
+@media only screen and (max-width: 330px) {
+    html{
+        font-size: 17%;
+    } 
+}    
